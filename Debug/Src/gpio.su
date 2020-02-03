@@ -1,0 +1,2 @@
+gpio.c:118:6:Init_GPIO_PIN	32	static
+gpio.c:81:6:ALL_GPIO_Init	40	static

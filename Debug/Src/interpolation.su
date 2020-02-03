@@ -1,0 +1,2 @@
+interpolation.c:82:14:cubicInterpolate	72	static
+interpolation.c:21:6:interpolate_image	168	static

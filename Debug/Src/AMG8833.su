@@ -1,0 +1,9 @@
+AMG8833.c:181:13:Read	24	static
+AMG8833.c:28:7:AMG8833_Init	56	static
+AMG8833.c:54:6:AMG8833_Read_pixdels	136	static
+AMG8833.c:79:10:AMG8833_Read_thermistor	24	static
+AMG8833.c:89:6:Set_interrupt	64	static
+AMG8833.c:121:6:Enable_interrupt	24	static
+AMG8833.c:131:6:Clear_interrupt	24	static
+AMG8833.c:145:6:Disable_interrupt	24	static
+AMG8833.c:156:6:getInterrupt	24	static

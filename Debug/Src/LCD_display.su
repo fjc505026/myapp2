@@ -1,0 +1,10 @@
+LCD_display.c:199:16:Character_getCharacter	20	static
+LCD_display.c:321:13:drawVLine1.isra.2	20	static
+LCD_display.c:134:6:Display	0	static
+LCD_display.c:149:6:setCursor	0	static
+LCD_display.c:163:6:setTextSize	0	static
+LCD_display.c:168:6:setTextBackground	0	static
+LCD_display.c:173:6:setTextColor	0	static
+LCD_display.c:180:6:print1	80	static
+LCD_display.c:186:10:getLineWidth	0	static
+LCD_display.c:192:6:setLineWidth	0	static

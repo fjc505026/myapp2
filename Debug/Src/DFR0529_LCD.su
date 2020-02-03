@@ -1,0 +1,7 @@
+DFR0529_LCD.c:120:6:writeCmd	16	static
+DFR0529_LCD.c:136:6:showText	8	static
+DFR0529_LCD.c:167:6:writeDatBytes	32	static
+DFR0529_LCD.c:150:13:writeDat	16	static
+DFR0529_LCD.c:16:6:LCD_Init	8	static
+DFR0529_LCD.c:200:6:setCursorAddr	24	static
+DFR0529_LCD.c:111:6:fillScreen	16	static
